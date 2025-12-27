@@ -1,0 +1,13 @@
+
+body { margin:0; overflow:hidden; background:#87b5ff; font-family:Inter,system-ui }
+#ui {
+  position:absolute; top:20px; left:20px;
+  color:white; text-shadow:0 5px 20px rgba(0,0,0,.5);
+}
+#speed { font-size:4rem; font-weight:200 }
+#unit { font-size:.8rem; opacity:.8 }
+#hint {
+  position:absolute; bottom:20px; width:100%;
+  text-align:center; letter-spacing:3px;
+  color:white; opacity:.6
+}
